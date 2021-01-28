@@ -1,6 +1,7 @@
 # Project 2: Sink or Swim
 
-## Team: Floriane Beyegue, Josh Jagget, Cassandra Johnson, Antonio Pinkston, and Rajiv Shrestha 
+## Team: 
+Floriane Beyegue, Josh Jagget, Cassandra Johnson, Antonio Pinkston, and Rajiv Shrestha
 
 ## Overview 
 
